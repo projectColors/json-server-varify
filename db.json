@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "id": 1
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$FqDtJQ/AqP.ogBC/KwU80.qrvyebQNSNeh7NVgMTIUh60rnssn6xi",
+      "name": "vitor",
+      "id": 2
+    }
+  ],
+  "favorites": [
+    {
+      "userId": 1,
+      "favorite": {
+        "colorPrimary": "#E8B4B8",
+        "colorSecondary": "#EED6D3",
+        "colorTertiary": "#A49393",
+        "titleSize1": 20,
+        "titleSize2": 16,
+        "textSize1": 18,
+        "textSize2": 14,
+        "textSize3": 12,
+        "radiusSize1": 5
+      },
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "favorite": {
+        "colorPrimary": "#BCECE0",
+        "colorSecondary": "#36EEE0",
+        "colorTertiary": "#F652A0",
+        "titleSize1": 28,
+        "titleSize2": 15,
+        "textSize1": 18,
+        "textSize2": 14,
+        "radiusSize1": 3
+      },
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "favorite": {
+        "colorPrimary": "#050A30",
+        "colorSecondary": "#000C66",
+        "colorTertiary": "#0000FF",
+        "titleSize1": 22,
+        "titleSize2": 18,
+        "titleSize3": 16,
+        "textSize1": 16,
+        "textSize2": 13,
+        "textSize3": 10,
+        "radiusSize1": 5,
+        "radiusSize2": 3,
+        "radiusSize3": 1
+      },
+      "id": 4
+    }
+  ]
+}
